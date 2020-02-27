@@ -1,5 +1,9 @@
 ## VGA-on-8088
 
+A copy of the files I posted to VCFed a number of years ago.  Below is my original writeup.
+
+---------------------------
+
 This is a patched drop-in version of the color VGA driver that comes with Windows 3.0.  I did this mainly as a programming/RE challenge, but also to gain insight into writing future drivers for this OS.  This driver should run unencumbered on any 8088+ CPU in real mode.  
 
 
